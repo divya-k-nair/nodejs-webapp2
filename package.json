@@ -1,0 +1,14 @@
+{
+  "name": "exphomepgm",
+  "version": "1.0.0",
+  "description": "this is a router pgm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "divya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
